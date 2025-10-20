@@ -18,3 +18,7 @@ Topic: Health & Wellness
 * AI in Healthcare
   * If people get AI to be very advanced it can also be used to help with medical procedures as well.
   * It can also if very advanced help with quickly calculating dosages and helping patients get around quicker.
+  * Some other things AI in healthcare can help with are:
+  * Accuracy
+  * Drug Discovery
+  * Diagnosis for diseases
