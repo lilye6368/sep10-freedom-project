@@ -25,4 +25,4 @@ Topic: Health & Wellness
  
   <h3>Here is a good list of devices or hardware based on my content that i've chosen for my list.</h3>
 
-<ul>Monitoring Equipment (MRI, X-Ray Machine, etc)</ul>
+<ul><li>Monitoring Equipment (MRI, X-Ray Machine, etc)</li></ul>
