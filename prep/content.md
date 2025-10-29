@@ -22,3 +22,7 @@ Topic: Health & Wellness
   * Accuracy
   * Drug Discovery
   * Diagnosis for diseases
+ 
+  <h3>Here is a good list of devices or hardware based on my content that i've chosen for my list.</h3>
+
+<ul>Monitoring Equipment (MRI, X-Ray Machine, etc)</ul>
