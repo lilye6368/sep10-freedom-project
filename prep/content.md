@@ -52,9 +52,9 @@ Topic: Health & Wellness
 
 <li>Oxygen Mask and Tubes: Used to deliver oxygen or aerosolized medications to patients with breathing difficulties.</li>
 
-<li>Patient Monitor: An electronic device that continuously tracks a patient's vital signs, such as heart rate, blood pressure, oxygen saturation, and respiratory rate.</li>
+<li>Patient Monitor: An electronic device that tracks a patient's vital signs, such as heart rate, blood pressure, oxygen saturation, and respiratory rate.</li>
 
-<li>And lastly, Surgical Instruments: Tools like scalpels, forceps, and scissors, used for various procedures and surgeries.</li>
+<li>And lastly, Surgical Instruments: Tools like scalpels and scissors, used for procedures and surgeries.</li>
 
 </ul>
 
