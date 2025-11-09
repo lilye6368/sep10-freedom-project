@@ -1,6 +1,6 @@
 # Entry 2
 ##### Lily Ebraheim | 11/9/25
-<h6>THIS NEEDS TO INCLUDE WHAT I FOUND AND HOW I FOUND IT OK?</h6>
+<h6>[What I found and how'd I find it]</h6>
 
 
 ## Engineering Design Process
