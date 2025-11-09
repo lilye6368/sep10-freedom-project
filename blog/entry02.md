@@ -5,8 +5,8 @@
 
 ## Engineering Design Process
 
-I am in the first step of learning in engineering design process (EDP).
-My goal within this part is the find problems, fix them, and make a solution, or keep on learning new ones / for code too. 
+<h4>I am in the first step of learning in engineering design process (EDP).
+My goal within this part is the find problems, fix them, and make a solution, or keep on learning new ones / for code too.</h4>
 
 ## Skills
 
