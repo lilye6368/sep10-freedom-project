@@ -13,16 +13,20 @@ My goal within this part is the find problems, fix them, and make a solution, or
 
 ## Skills
 
-So, some skills I am learning or have already learned from this blog are.. **
+So, some skills I am learning or have already learned from this blog are..
+
+<ul>
+ <li>Beginner Code</li>
+ <li>Searching for Evidence</li>
+ <li></li>
+</ul>
 
 
-#### What I did to get my results, answers, or evidence
+### What I did to get my results, answers, or evidence
 
 <h
 
-#### Communication
-
-Communication was another important skill I have developed. Since I’m working on this project with another person, it’s important to collaborate and talk to one another. At first, we were doing our own searches and not sharing what we found. But finally we made a collaborative Google Doc where we could compile the links we found interesting as an efficient way to share what we found. We plan to check-in with each other at least once a week about the project, probably on Sunday afternoons.
+## (Another skill you learned)
 
 ## Next steps
 
