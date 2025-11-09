@@ -5,7 +5,8 @@
 
 ## Engineering Design Process
 
-I am currently in the first stage of the engineering design process, where the main goal is to define the problem. The problem that I hope to solve with my project is that **people are not informed about the world of technology in visual art**. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my peers and those around me to discuss the issue and gain their input on the situation. 
+I am in the first step of learning in engineering design process (EDP).
+My goal within this part is the find problems, fix them, and make a solution, or keep on learning new ones / for code too. 
 
 ## Skills
 
