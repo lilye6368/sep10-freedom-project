@@ -5,47 +5,50 @@
 
 ## Engineering Design Process
 
-<h4>I am in the first step of learning in the **Engineering Design Process (EDP).**
-My goal within this part is the find problems, fixes, and make a solution, or keep on learning new ones / for code too.</h4>
+I am in the first step of learning in the **Engineering Design Process (EDP)**. 
+
+My goal within this part is the find problems, fixes, and make a solution, or keep on learning new ones / for code too.
+
 
 
 ## Skills
 
-So, some skills I am learning or have already learned from this blog are..
+So, some skills I am learning or have already learned from this blog are...
 
 
 * Beginner Code
- <li>Searching for **Evidence**
- <li>Finding <b>Correct Resolutions/Results</b> for my Topic</li>
+* Searching for **Evidence**
+* Finding **Correct Resolutions/Results** for my topic
 
 
 ---
 
 ## Sources
 
-For <b>sources</b>, I especially choose or have chose ones that I know for a fact are true and not incorrect. I need to make sure of this so I know that the topic im speaking or talking about is fully true.
+For **sources**, I especially choose or have chose ones that I know for a fact are true and not incorrect. I need to make sure of this so I know that the topic im speaking or talking about is fully true.
 
 
 ## So, what did I do to get my results, answers, and evidence?
 
 You might be asking how I got my evidence/results and if they are even correct information.
 
-<h4>Well, it is pretty <b>straightforward</b> </h4>
-<h4>You can either search up to find your information, or you can search up <b>trusted sources</b></h4>
-<br>
+Well, it is pretty **straightforward**
 
-<h3>I already searched up some sources of <b>Health and Wellness</b> for you to check out!</h3>
+You can either search up to find your information, or you can search up **trusted sources**
 
-<ul>
- <li>(Health Education Article 1)[https://pmc.ncbi.nlm.nih.gov/articles/PMC9621358/]</li>
-</ul>
+I already searched up some sources of **Health and Wellness** for you to check out!
+
+
+* [Health Education Article 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9621358/)
+* [Health Information Article 2](https://www.ruralhealthinfo.org/toolkits/health-promotion/2/strategies/health-education)
+* [Health Info Article 3](https://www.snhu.edu/about-us/newsroom/health/importance-of-health-education)
 
 
 
 
 ## 
 
--
+
 
 ---
 
