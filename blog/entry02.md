@@ -5,7 +5,7 @@
 
 ## Engineering Design Process
 
-<h4>I am in the first step of learning in the <b>Engineering Design Process (EDP)</b>.
+<h4>I am in the first step of learning in the **Engineering Design Process (EDP).**
 My goal within this part is the find problems, fixes, and make a solution, or keep on learning new ones / for code too.</h4>
 
 
@@ -13,11 +13,11 @@ My goal within this part is the find problems, fixes, and make a solution, or ke
 
 So, some skills I am learning or have already learned from this blog are..
 
-<ul>
- <li>Beginner Code</li>
- <li>Searching for <b>Evidence</b></li>
+
+* Beginner Code
+ <li>Searching for **Evidence**
  <li>Finding <b>Correct Resolutions/Results</b> for my Topic</li>
-</ul>
+
 
 ---
 
@@ -28,7 +28,7 @@ For <b>sources</b>, I especially choose or have chose ones that I know for a fac
 
 ## So, what did I do to get my results, answers, and evidence?
 
-<h3>You might be asking how I got my evidence/results and if they are even correct information.</h3>
+You might be asking how I got my evidence/results and if they are even correct information.
 
 <h4>Well, it is pretty <b>straightforward</b> </h4>
 <h4>You can either search up to find your information, or you can search up <b>trusted sources</b></h4>
@@ -37,7 +37,7 @@ For <b>sources</b>, I especially choose or have chose ones that I know for a fac
 <h3>I already searched up some sources of <b>Health and Wellness</b> for you to check out!</h3>
 
 <ul>
- <li>[Health Education Article 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9621358/)</li>
+ <li>(Health Education Article 1)[https://pmc.ncbi.nlm.nih.gov/articles/PMC9621358/]</li>
 </ul>
 
 
