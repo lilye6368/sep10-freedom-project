@@ -8,15 +8,17 @@
 <h4>I am in the first step of learning in engineering design process (EDP).
 My goal within this part is the find problems, fix them, and make a solution, or keep on learning new ones / for code too.</h4>
 
+
+####
+
 ## Skills
 
-Some skills that I’ve learned from working on this blog are **time management**, **how to google**, and **communication**. 
+So, some skills I am learning or have already learned from this blog are.. **
 
-#### Time management
 
-I have several commitments outside of school, such as picking up my brother from school every day, being on a swim team, and being in a gaming club two days a week. But my workload at school is becoming busier, so I needed to make more time for this project as well as my history class. So I decided to cut back from two days of gaming club per week to just one day per week. I think this change will help moving forward.
+#### What I did to get my results, answers, or evidence
 
-#### What I searched up to get to my final results
+<h
 
 #### Communication
 
