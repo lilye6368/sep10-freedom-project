@@ -67,6 +67,8 @@ I already searched up some sources of **Health and Wellness** for you to check o
 
 ## Summary
 
+In conclusion, these are all the reasons I chose health and sources on why and what is in the good of learning it.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
