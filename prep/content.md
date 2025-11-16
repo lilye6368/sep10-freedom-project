@@ -3,7 +3,9 @@ Topic: Health & Wellness
 
 
 ## Overview/Introduction/Context
-* Healthcare
+* Topic: Healthcare
+
+This page will help you learn about all the unique, complex, and even interesting tools and sites related to healthcare that you can learn about and get ideas on, as well as how these types of technology help thousands and millions of people in their daily lives, saves them, and even helps people in the long run.
 
 ## Part A: existing technology
 * GoodRX
