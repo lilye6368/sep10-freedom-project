@@ -13,8 +13,8 @@ This page will help you learn about all the unique, complex, and even interestin
   * It’s easy to go through
   * Quick Navigation
   * Shows people the exact price they will pay or need for the medication they'll be buying.
- 
-[![goodrx](https://github-production-user-asset-6210df.s3.amazonaws.com/235416589/503316460-b8e867a2-d6b3-499a-8c3c-1a068b66ddf9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T173914Z&X-Amz-Expires=300&X-Amz-Signature=804223bb600d6ea9e1e96032c69e9d1a0e86b3d839f5bcbdf7308c4427d13289&X-Amz-SignedHeaders=host)](https://www.goodrx.com/?srsltid=AfmBOopnf8j2gVg-Kqs2bIYIH5TJmfr2GD5MQxM2R-oieSK1omGaDvv7)
+
+![goodrx](https://images.ctfassets.net/4f3rgqwzdznj/6KLAAs03WU1o0mu3AcKrCG/47729e86e8936c0c3709b0f265b97c20/gdrx-meta-logo.png)
 
 ## Part B: possible future technology
 * AI in Healthcare
@@ -27,6 +27,7 @@ This page will help you learn about all the unique, complex, and even interestin
  
   <h3>Here is a list of 15 devices/hardware i've found on the internet based on my content that i've chosen for my list of healthcare.</h3>
   
+![heart lilbro](https://www.shutterstock.com/image-vector/flat-heart-rate-icon-symbol-600nw-2490178215.jpg)
 
 <ul><li>Monitoring Equipment (MRI, X-Ray Machine, etc)</li>
  
