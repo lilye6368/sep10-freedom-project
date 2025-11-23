@@ -27,7 +27,8 @@ This page will help you learn about all the unique, complex, and even interestin
  
   <h3>Here is a list of 15 devices/hardware i've found on the internet based on my content that i've chosen for my list of healthcare.</h3>
   
-![heart lilbro](https://www.shutterstock.com/image-vector/flat-heart-rate-icon-symbol-600nw-2490178215.jpg)
+![heart](https://www.shutterstock.com/image-vector/flat-heart-rate-icon-symbol-600nw-2490178215.jpg)
+<!-- <img src="img/girl.jpg" alt="Girl in a jacket" width="500" height="600"> -->
 
 <ul><li>Monitoring Equipment (MRI, X-Ray Machine, etc)</li>
  
