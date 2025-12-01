@@ -10,7 +10,10 @@ Here is a list of ways I have brainstormed and thought about what I was going to
 ---
 <li>Thought about AI: How much it has progressed in the last few years, it is worthy to be helpful in the future or future technology going back to my topic</li>
 <li>Searched up how AI could help in healthcare</li>
-
+<li>Thought of different solutions and what hasn't already been used for medical technology</li>
+<li>How those inventions/new ideas could be helpful in medical</li>
+<li>The purpose of the idea, how much could it help in medical?</li>
+<li>Which types of people are using it and what are they using it for, what does it help them with?</li>
 
 
 ---
