@@ -16,6 +16,9 @@ This page will help you learn about all the unique, complex, and even interestin
 
 ![goodrx](https://images.ctfassets.net/4f3rgqwzdznj/6KLAAs03WU1o0mu3AcKrCG/47729e86e8936c0c3709b0f265b97c20/gdrx-meta-logo.png)
 
+One more example of existing technology in the medical field is:
+3D printing for creating a few things like patient-specific implants, prosthetics, and drugs.
+
 ## Part B: possible future technology
 * AI in Healthcare
   * If people get AI to be very advanced it can also be used to help with medical procedures as well.
@@ -23,7 +26,9 @@ This page will help you learn about all the unique, complex, and even interestin
   * Some other things AI in healthcare can help with are:
   * Accuracy
   * Drug Discovery
-  * Diagnosis for diseases
+  * Diagnosis for Diseases
+  * Gene editing : Fix genetic diseases
+  * Expanding of robotics for surgical tasks
  
   <h3>Here is a list of 15 devices/hardware i've found on the internet based on my content that i've chosen for my list of healthcare.</h3>
   
