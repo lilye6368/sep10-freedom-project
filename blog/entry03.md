@@ -4,7 +4,7 @@
 ---
 ## Content:
 
-<h3>How did you brainstorm part B?</h3>
+<h3>How did I brainstorm ideas for Part B?</h3>
 Here is a list of ways I have brainstormed and thought about what I was going to write in my <b>Part B</b> section in my last page:
 
 ---
