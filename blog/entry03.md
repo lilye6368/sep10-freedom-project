@@ -2,6 +2,7 @@
 ## Lily Ebraheim
 #### 12/1/25
 ---
+
 ## Content:
 
 <h3>How did I brainstorm ideas for Part B?</h3>
@@ -17,6 +18,9 @@ Here is a list of ways I have brainstormed and thought about what I was going to
 
 
 ---
+## Enginnering Design Process 
+(PLACEHOLDER)
+
 ## Sources:
 
 The sources i've used for my <b>Part B</b> and why I used them
