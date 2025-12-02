@@ -19,14 +19,16 @@ Here is a list of ways I have brainstormed and thought about what I was going to
 ---
 ## Sources:
 
-Which websites did I use and why
+The sources i've used for my <b>Part B</b> and why I used them
 
 
 
 
 ---
 
+## Skills: 
 
+name 2 skills you learned 
 
 
 
