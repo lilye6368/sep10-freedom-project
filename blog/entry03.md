@@ -28,7 +28,7 @@ The sources i've used for my <b>Part B</b> and why I used them
 
 ## Skills: 
 
-name 2 skills you learned 
+For this section, I have learned a few skills and not just to use inside of school for my assignments, but as well as for outside the school too. 2 skills I have learned so far since the previous entry 
 
 
 
