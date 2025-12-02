@@ -32,7 +32,7 @@ The sources i've used for my <b>Part B</b> and why I used them
 
 ## Skills: 
 
-For this section, I have learned a few skills and not just to use inside of school for my assignments, but as well as for outside the school too. 2 skills I have learned so far since the previous entry 
+For this section, I have learned a few skills and not just to use inside of school for my assignments, but as well as for outside the school too. 2 skills I have learned so far since the previous entry is how to make my pages more professional. Some ways I did this was by adding more bulleted points, making my points clear, and explaining what I'm talking about. This is so the person reading knows exactly what my point is and the reasons for it. One more skill i've learned 
 
 
 
