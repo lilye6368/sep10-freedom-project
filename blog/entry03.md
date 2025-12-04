@@ -19,11 +19,13 @@ Here is a list of ways I have brainstormed and thought about what I was going to
 
 ---
 ## Enginnering Design Process 
-For this stage of the <b>Enginnering Design Process,</b> I am testing out code (HTML, CSS) and I will be learning how to implement it. I currently try to find problems in my code, and try to fix it, as well as showing why it's important to solve and learn from my mistakes. For my next stage of <b>EDP,</b> I will be trying a little more complex or more normal coding ideas, like detailing the design more if I can, and testing more implementations or computational parts of my webpages and/or projects.
+For this stage of the <b>Enginnering Design Process,</b> I am testing out code <b>(HTML, CSS)</b> and I will be learning how to implement it. I currently try to find problems in my code, and try to fix it, as well as showing why it's important to solve and learn from my mistakes. For my next stage of <b>EDP,</b> I will be trying a little more complex or more normal coding ideas, like detailing the design more if I can, and testing more implementations or computational parts of my webpages and/or projects.
 
 ## Sources:
 
-The sources i've used for my <b>Part B</b> and why I used them
+The sources i've used for my <b>Part B</b> section and why I used them
+
+<li></li>
 
 
 
