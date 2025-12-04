@@ -16,6 +16,10 @@ Here is a list of ways I have brainstormed and thought about what I was going to
 <li>The purpose of the idea, how much could it help in medical?</li>
 <li>Which types of people are using it and what are they using it for, what does it help them with?</li>
 
+<br>
+All these ideas helped me with brainstorming my ideas, since they helped me focus on the impact and the outcome of the contribution they showed, and giving me more suggestions on how to help me successfully brainstorm and get good thoughts on what I would be doing. It also helped me build and expand on ideas, highlighting how my ideas served as a leading to combination and improvement. These solutions help me progress and give me the next steps to finish my current steps and go on to the next ones.
+
+
 
 ---
 ## Enginnering Design Process 
