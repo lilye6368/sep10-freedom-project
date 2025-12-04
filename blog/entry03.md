@@ -23,11 +23,13 @@ For this stage of the <b>Enginnering Design Process,</b> I am testing out code <
 
 ## Sources:
 
-The sources i've used for my <b>Part B</b> section and why I used them
+The sources i've used for my other section and why I used them
 
-<li></li>
+* [Health Education Article 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9621358/)
+* [Health Information Article 2](https://www.ruralhealthinfo.org/toolkits/health-promotion/2/strategies/health-education)
+* [Health Info Article 3](https://www.snhu.edu/about-us/newsroom/health/importance-of-health-education)
 
-
+<li>I decided to use these 3 sources because they explain clearly and thoroughly on <b>Health and Wellness,</b> including practices you and other people could do, what is good and bad for you (mostly), and gives you lots of important information, like helping with planning a sequence of lessons and learning activities that increase participants' knowledge, attitudes, and skills.</li>
 
 
 ---
