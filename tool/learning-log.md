@@ -1,14 +1,14 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: AnimateCSS
 
 ---
 
-### X/X/XX:
-* Text
+### Meant to do at 3/20/26:
+* I currently haven't learned any major pieces of code for AnimateCSS yet, I am currently just searching up and testing code on an html tester.
 
-### X/X/XX:
-* Text
+### 3/23/26:
+* Still not much yet, but I'm starting to use a website for html that helps me test the animations easier, which can help me remember which code to do for which animations, and which sections of my webpage I can use them for.
 
 
 <!-- 
