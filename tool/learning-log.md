@@ -10,6 +10,8 @@
 ### 3/23/26:
 * Still not much yet, but I'm starting to use a website for html that helps me test the animations easier, which can help me remember which code to do for which animations, and which sections of my webpage I can use them for.
 
+### 4/16/26:
+* Understand some basic code, not fully understanding most of the code but I can still try to test code on html tester websites and I think if I work hard enough i'll start learning a bit more basic or even slightly advanced ones too.
 
 <!-- 
 * Links you used today (websites, videos, etc)
