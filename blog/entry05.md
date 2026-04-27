@@ -73,6 +73,7 @@ I am currently in a stage where I am creating simple code and testing it for my 
 ## Skills
 
 Since my last entry, I have possibly developed 2 specific skills for outside stuff too, not just this blog or work.
+
 *<b>1) Problem Solving and Debugging:</b>* While trying to move past basic animations, I almost always run into confusion with the code. When this happens, I can stay patient and try figuring out different ways to solve it and potentially even debug it, one of the ways is either searching up some of the correct code, or either using different types of code yourself to see where the error occured and fix it quickly.
 
 *<b>2) Visual "Communication" or Vibe</b>* By using Animate.css, I have improved very very slightly in using a little bit of motion to communicate or get the right vibe to a user on my website. You can learn how to choose the right animation, like a small fade vs a loud or really big bounce, just to make sure the vibe of the website matches the content. This skill of balancing design and function is pretty useful for any type of creative work, like websites or webpages. 
