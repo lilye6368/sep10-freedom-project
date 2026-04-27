@@ -72,7 +72,7 @@ I am currently in a stage where I am creating simple code and testing it for my 
 
 ## Skills
 
-Since my last entry, I have possibly developed 2 specific skills for outside stuff too, not just this blog or work.
+Since my last entry, I have possibly developed <b>2 specific skills</b> for outside stuff too, not just this blog or work.
 
 *<b>1) Problem Solving and Debugging:</b>* While trying to move past basic animations, I almost always run into confusion with the code. When this happens, I can stay patient and try figuring out different ways to solve it and potentially even debug it, one of the ways is either searching up some of the correct code, or either using different types of code yourself to see where the error occured and fix it quickly.
 
@@ -82,7 +82,7 @@ Since my last entry, I have possibly developed 2 specific skills for outside stu
 
 ## Conclusion
 
-Overall, learning how to use Animate.css has been a pretty big challenge since I am a beginner even though the code is basic, but it is cool t o see the small amount of progress I made with the basic animations.
+Overall, learning how to use Animate.css has been a pretty big challenge since I am a beginner even though the code is basic, but it is cool to see the small amount of progress I made with the basic animations.
 
 
 [Previous](entry04.md) | [Next](entry06.md)
