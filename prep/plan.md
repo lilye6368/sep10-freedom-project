@@ -1,11 +1,11 @@
 # Plan
-
+Copy the wireframe, add some extra details on the real website, add hex colors and make sure the page is almost fully free of bugs.
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/ChiKtJ)
+* [Desktop](https://wireframe.cc/jH3Ewt)
 
 ## Colors
-* `#ABC123`
+* `#FFFF00` `#0000FF`
 
 ## Fonts
 * [Text](URL)
