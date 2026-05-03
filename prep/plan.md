@@ -11,11 +11,11 @@ Copy the wireframe, add some extra details on the real website, add hex colors a
 * [Text](URL)
 
 ## Timeline and mvp
-4/24: make ideas first
-saturday: think of what colors work best with website
-4/29: Wireframe done
-5/1: Readjusting template
-sunday: starting/finishing project
+* 4/24: make ideas first
+* saturday: think of what colors work best with website
+* 4/29: Wireframe done
+* 5/1: Readjusting template
+* sunday: starting/finishing project
 
 #### Beyond MVP
 
