@@ -5,7 +5,7 @@ Copy the wireframe, add some extra details on the real website, add hex colors a
 * [Desktop](https://wireframe.cc/jH3Ewt)
 
 ## Colors
-* `#FFFF00` `#0000FF`
+* `#FFFFFF`
 
 ## Fonts
 * [Text](URL)
