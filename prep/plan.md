@@ -10,17 +10,21 @@ Copy the wireframe, add some extra details on the real website, add hex colors a
 ## Fonts
 * [Text](URL)
 
-## Timeline
-
-#### MVP
-
-* Task/Timeline
-
----
+## Timeline and mvp
+4/24: make ideas first
+saturday: think of what colors work best with website
+4/29: Wireframe done
+5/1: Readjusting template
+sunday: starting/finishing project
 
 #### Beyond MVP
 
-* Task
+* make background slightly dark if i can
+* make it neater if needed
+* adjust code
+* debug if u need
+* jumpy title or animated
+
 
 
 
