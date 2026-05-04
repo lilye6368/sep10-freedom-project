@@ -1,43 +1,62 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+</head>
+<body style="background-color: #fdfaf5; margin: 0; padding: 20px; font-family: sans-serif;">
 
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
-        <link href="style.css" rel="stylesheet" type="text/css" />
-        <style>
-            /* CSS */
-            h1 {
-                color: red;
-                text-align: center;
-                font-size: 100px
-            }
-            p {
-                padding: 30px;
-                color: gray;
-            }
-            * {
-                background-color: lightblue;
-            }
+    <div style="max-width: 1000px; margin: 0 auto;">
 
-        </style>
+        <div style="display: flex; justify-content: space-between; border-bottom: 2px solid #ccc; padding: 10px 0; font-weight: bold; margin-bottom: 20px;">
+            <div><img src="https://cdn-icons-png.flaticon.com/512/166/166527.png" style="width: 30px; height: 30px; vertical-align: middle;"></div>
 
-        <title>My Freedom Project</title>
-    </head>
-    <body>
-        <!-- HTML -->
-         <h1>Health & Wellness</h1>
-         <p>hi</p>
+        </div>
+ <!-- this is the pulsing thing for like the box and the website name, also a recap just link the animate.css library to the head of the code and apply the pulse classes and infinite thing to the div for animation (this is just here so i remember) -->
+        <div class="animate__animated animate__pulse animate__infinite" 
+             style="width: 100%; height: 220px; background: white; border: 2px solid #333; text-align: center; margin-bottom: 60px; border-radius: 8px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+            <img src="https://cdn-icons-png.flaticon.com/512/3239/3239121.png" style="width: 50px; margin-bottom: 10px;">
+            <h1 style="font-size: 35px; margin: 0;">Health & Wellness Website</h1>
+        </div>
+<!-- overview stuff over here -->
+        <h2 style="text-align: center; margin-bottom: 20px;">Overview / Context</h2>
+        <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 50px;">
+            <div style="flex: 1; min-width: 250px; background: white; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
+             <div style="width: 100%; height: 150px; border: 1px solid #999; margin-bottom: 10px; overflow: hidden;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKhGd8MnNNLj6SPtH7_pZIoT_XZgdNtDwQQ&s" style="width: 350px; height: 150px;">
+</div>
 
+                <p><b>This website is for exploring some cool technology and interesting tools used in healthcare. These can go from online platforms or websites to physical equipment.</b></p>
+            </div>
+            <div style="flex: 1; min-width: 250px; background: white; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9PAJ8ORy8V-0-taV7Gr-sGSeND8SqhzuGw&s" style="width: 350px; height: 150px;">
+                <p><b>By understanding some of these tools, you can get a better idea of how new or already existing ideas can save lives and improves health management overall.</b></p>
+            </div>
+        </div>
+     <!-- this is part A -->
+        <h2 style="text-align: center; margin-bottom: 20px;">Part A: Existing Technology</h2>
+        <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 50px;">
+            <div style="flex: 1; min-width: 250px; background: white; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
+    <img src="https://images.ctfassets.net/4f3rgqwzdznj/3w91zqq2HqV0FPCCC5SMy6/810d34a9e7b8aab83ed026cfd169e493/GoodRx_square_icon_2-02.png" style="width: 350px; height: 150px;">
+                <p><b>For example, an online platform like GoodRx is good for patients or people to find lower prices for prescriptions and is well known of quick navigation and people finding it easy to use.</b></p>
+            </div>
+            <div style="flex: 1; min-width: 250px; background: white; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-XVjOP14orLzuNCb83dQA6dEqeztaEh7ow&s" style="width: 300px; height: 150px;">
+                <p><b>Now, a physical idea, still hardware, like 3d printing is starting to get more popular within healthcare. This type of technology is currently being used to do things like making prosthetics, custom medications, and even helps by making treatment more effective. </b></p>
+            </div>
+        </div>
+              <!-- this is part b btw -->
+        <h2 style="text-align: center; margin-bottom: 20px;">Part B: Future Technology</h2>
+        <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 50px;">
+            <div style="flex: 1; min-width: 250px; background: white; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
+    <img src="data:image/jpeg;base64,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" style="width: 300px; height: 150px;">
+                <p><b>Future things, like AI can or will likely more on focus on better accuracy like diagnosing or finding diseases and gene editing to fix genetic conditions. It could also possibly calculate complex or more confusing dosages quicker and speed up some things for drug discovery. This can help people or scientists more over to find cures for diseases than humans can alone. </b></p>
+            </div>
+            <div style="flex: 1; min-width: 250px; background: white; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
+    <img src="https://media.tenor.com/HIa1lHuyxpUAAAAe/low-cortisol.png" style="width: 350px; height: 150px;">
+                <p><b>Nanotechnology is when you use microscopic nanobots to deliver medicine right into the sick cells without affecting the rest of somebody's body. In the future these tiny machines could perform different repairs or kill cancer cells, making treatments more successful.</b></p>
+            </div>
+        </div>
 
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- <script src="script.js"></script> -->
-        <script>
-            // JS
-
-
-        </script>
-    </body>
+    </div>
+</body>
 </html>
