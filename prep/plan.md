@@ -38,7 +38,7 @@ Copy the wireframe, add some extra details on the real website, add hex colors a
 | -------- | ------- | ------- |
 | Jasmina | I really like how you have different sections, and have everything organized | One grow is that maybe you could do width 100% to make the images take up the whole space of the card. |
 |  Angel| Your website looks well-organized and fun, I really like the way you structured it. | Have you thought about making the images change size (like the cards) when the website becomes smaller? You could definetely add some links too.  |
-|  |  |  |
+| William C | I like how you mixed fun withh creaticity as you added funny images, but combined them with cards | Next time I think for the images you can add a link to what the innovations may look like using images or shapes. |
 |  |  |  |
 |  |  |  |
 
