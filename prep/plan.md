@@ -31,16 +31,15 @@ Copy the wireframe, add some extra details on the real website, add hex colors a
 
 
 
-<!-- DO NOT USE THIS YET
 
 #### Peer Feedback 
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Jasmina | I really like how you have different sections, and have everything organized | One grow is that maybe you could do width 100% to make the images take up the whole space of the card. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
--->
+
