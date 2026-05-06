@@ -24,6 +24,7 @@ Copy the wireframe, add some extra details on the real website, add hex colors a
 * adjust code
 * debug if u need
 * jumpy title or animated
+* (New) Fix the images in the cards so they don't go off-screen and fit in the card fully
 
 
 
