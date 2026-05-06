@@ -17,20 +17,19 @@ Copy the wireframe, add some extra details on the real website, add hex colors a
 * 5/1: Readjusting template
 * sunday: starting/finishing project
 
-#### Beyond MVP
+#### Beyond MVP (Myself)
 
 * make background slightly dark if i can
 * make it neater if needed
 * adjust code
 * debug if u need
 * jumpy title or animated
-* (New) Fix the images in the cards so they don't go off-screen and fit in the card fully
 
+#### Beyond MVP List
 
-
-
-
-
+* [X] Changing the width and height of the images so they fit the whole card
+* [ ] Making images change size (Not sure if it's necessary yet since it mostly adjusts to the screen size)
+* [ ] Adding Links (I could, but i'm not completely interested in it)
 
 
 #### Peer Feedback 
