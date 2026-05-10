@@ -28,9 +28,8 @@ Copy the wireframe, add some extra details on the real website, add hex colors a
 #### Beyond MVP List
 
 * [X] Changing the width and height of the images so they fit the whole card
-* [ ] Making images change size (Not sure if it's necessary yet since it mostly adjusts to the screen size)
-* [ ] Adding Links (I could, but i'm not completely interested in it)
-
+* [ ] Adding Links (I could, but i'm not sure what to do for it yet)
+* [ ] Making images change size (Not sure if it's necessary yet since it adjusts to the screen size for the most part)
 
 #### Peer Feedback 
 
