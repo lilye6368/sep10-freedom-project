@@ -22,9 +22,6 @@ yo
 ```html
 yo
 ```
-### Content IV: Final Result
- - I am currently at an "okayish" level, I don't really have much of a grasp yet of the full on *crazy* animations, but I know a few now so I can keep that in mind, though I am still trying to refine my skills with the code to ensure that the animations are more on the good/perfect side without any major issues I'd run into.
-
 ---
 
 ## Sources Originally Used to Learn
