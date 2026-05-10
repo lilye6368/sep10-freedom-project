@@ -71,31 +71,25 @@
 
 ## Enginnering Design Process (EDP)
 
-I am currently in a stage where I am creating simple code and testing it for my <b>Engineering Design Process (EDP).</b> 
+- Right now in the <b>engineering design process,</b> I am mostly at the stage where I have already found my problem, planned my idea, and built my mvp website for the most part. I started by thinking about and planning my website idea, then I created a wireframe and timeline to organize what I wanted to build *(just so I don't forget and know pretty much what i'm doing).* After that, I moved into the actual design and starting stage where I coded my actual MVP using html and animate.css, and tested it using the online HTML compiler/tester. At this point, I have a working version of my page, maybe I could polish it a bit but I don't think it needs it right now.
+  
+- The next stage of the <b>engineering design process</b> for me would be like testing and improving my website based on feedback and what I personally think should be added if needed. This includes fixing issues on like how the cards are supposed to be, adding features like *(possibly)* links or slightly improved image sizing, and possibly adjusting a little bit of the animations. I personally think i'm already near finishing my website and think i'm at a good spot now.
 
-#### Enginnering Design Process Stage I (Current)
 
-* This is my current stage for the EDP. I have been testing out some *Animate.CSS* code (aka the animations) and thinking where I should probably put it in my project. I can test different classes to see how they affect or change my text and trying to debug my code when the animations don't seem how I wanted them to be.
-
-#### Enginnering Design Process Stage II (Next)
-
-* My next stage for the EDP will be trying to plan to fix the basic animations that im currently stuck on and try to tune the timing just right so the transitions look a *bit* more professional before the final changes happen.
 
 ---
  
 ## Skills
 
-Since my last entry, I have possibly developed <b>2 specific skills</b> for outside stuff too, not just this blog or work.
+Since working on this project, I got a few skills that I can use outside of this project or assignment. One skill I improved is problem-solving, because I had to fix layout issues like images not fitting correctly or sections shifting *(like the cards more of what i'm talking about)*. Another skill I developed is planning and organization, since I followed a timeline and wireframe to help me build my website step by step instead of getting lost while coding and forgetting what I was supposed to add or do.
 
-*<b>1) Problem Solving and Debugging:</b>* While trying to move past basic animations, I almost always run into confusion with the code. When this happens, I can stay patient and try figuring out different ways to solve it and potentially even debug it, one of the ways is either searching up some of the correct code, or either using different types of code yourself to see where the error occured and fix it quickly.
-
-*<b>2) Visual "Communication" or Vibe</b>* By using Animate.css, I have improved very very slightly in using a little bit of motion to communicate or get the right vibe to a user on my website. You can learn how to choose the right animation, like a small fade vs a loud or really big bounce, just to make sure the vibe of the website matches the content. This skill of balancing design and function is pretty useful for any type of creative work, like websites or webpages. 
+I also improved slightly my html skills, especially understanding how like spacing, and styling work together to build a cleaner webpage than before. Over that too, I feel like I got a little better at learning by myself by using <b>animate.css</b> and testing my code in the online html compiler to quickly see and fix mistakes.
 
 ---
 
 ## Conclusion
 
-Overall, learning how to use Animate.css has been a pretty big challenge since I am a beginner even though the code is basic, but it is cool to see the small amount of progress I made with the basic animations.
+Overall, this project helped me understand how the engineering design process works in real coding by planning, building, testing, and changing or even making my MVP better while also making or getting good skills like problem-solving, organization, and basic web development.
 
 
 [Previous](entry05.md) | [Next](entry07.md)
