@@ -1,5 +1,13 @@
 # Plan
-Copy the wireframe, add some extra details on the real website, add hex colors and make sure the page is almost fully free of bugs.
+* Copy the wireframe onto the website, do this by using cards, also make the background a light shade of yellow or any other color so it's not a white background so you can see the cards. 
+* Add context for the first 2 cards at the starting point, talk about what the website is mainly going to be talking about and extra things if necessary. 
+* Three cards for <b>Part A</b> *(Existing Technology)* and <b>Part B</b> *(Future Technology)* and talk about them and what they would do or already do if needed.
+* Make some cards pulsing *(not all of them)* and make the text straightforward.
+* In code, make the background for all the cards white so you can tell its a card and not floating in the website kind of.
+* Edit descriptions if necessary, also make font of title larger.
+* Add frowning face to replace logo, logo part isn't really necessary since it's just a showcase website.
+* Add extra details, fix alignment, debug, then finish.
+
 ## Wireframes
 * [Mobile](https://wireframe.cc/ChiKtJ)
 * [Desktop](https://wireframe.cc/jH3Ewt)
