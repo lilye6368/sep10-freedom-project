@@ -49,7 +49,7 @@ I am currently in a stage where I am creating simple code and testing it for my 
 * My next stage for the EDP will be trying to plan to fix the basic animations that im currently stuck on and try to tune the timing just right so the transitions look a *bit* more professional before the final changes happen.
 
 ---
-
+ 
 ## Skills
 
 Since my last entry, I have possibly developed <b>2 specific skills</b> for outside stuff too, not just this blog or work.
