@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Have you ever imagined a world where diseases are detected before you even feel signs, ai can analyze medical scans in seconds, and tiny technologies can deliver treatment directly inside the body. That future is already starting to exist or might in the future, and my project explores the topic about it.”
 
 ## Product
-* 
+* My final product is a health and wellness website that explains both already existing and future healthcare technology or technologies. It includes things like ai-powered radiology, GoodRx, 3D printing in medicine, and future ideas like nanotechnology and advanced AI systems.
 
 ## Process
-* 
+* I built the website using html. So pretty much I organized it into sections using flexbox, added images to support each topic, and used Animate.css for simple animations to make it more interactive. I also adjusted the layout to make everything clear and easy to read.
 
 ## Conclusion
-* 
+* placeholde
 
 <!-- EXAMPLE
 
