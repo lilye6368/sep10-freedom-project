@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* Have you ever imagined a world where diseases are detected before you even feel signs, ai can analyze medical scans in seconds, and tiny technologies can deliver treatment directly inside the body. That future is already starting to exist or might in the future, and my project explores the topic about it.
+* Have you ever imagined a world where diseases are detected before you even feel signs, ai that can analyze medical scans in seconds, and tiny technologies that can deliver treatment directly inside the body? That future is already starting to exist or might in the future, and my project explores the topic about it.
 
 ## Product
 * My final product is a health and wellness website that explains both already existing and future healthcare technology or technologies. It includes things like ai-powered radiology, GoodRx, 3D printing in medicine, and future ideas like nanotechnology and advanced AI systems.
