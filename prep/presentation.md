@@ -7,10 +7,10 @@
 * My final product is a health and wellness website that explains both already existing and future healthcare technology or technologies. It includes things like ai-powered radiology, GoodRx, 3D printing in medicine, and future ideas like nanotechnology and advanced AI systems.
 
 ## Process
-* I built the website using html. So pretty much I organized it into sections using flexbox, added images to support each topic, and used Animate.css for simple animations to make it more interactive. I also adjusted the layout to make everything clear and easy to read.
+* I created the content and selected all the images myself, and I used html to build the structure or pretty much the layout of the website. For the layout of the cards and headings, I used online tools, like html references and examples to help me and let me know which code did what. After I was done looking at it, I adjusted a bit the code and customized everything to fit my own design which was kind of basic but worked. After that, I added the animations myself using animate.css to make the site more interactive and not too boring, and then I fixed the spacing, layout, and styling through testing until everything looked pretty clean to me.
 
 ## Conclusion
-* placeholde
+* In conclusion, this project shows how quickly healthcare technology is evolving and stepping up its game. From tools made today or recently to future innovations or technology, healthcare is becoming more advanced, and my website brings all of these ideas together in one place.
 
 <!-- EXAMPLE
 
