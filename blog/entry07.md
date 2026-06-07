@@ -14,11 +14,16 @@
 
 ### Sources + Overview Link
 
-(https://github.com/lilye6368/sep10-freedom-project/blob/main/prep/presentation.md)
+This is my [presentation plan](https://github.com/lilye6368/sep10-freedom-project/blob/main/prep/presentation.md) and what I put for each section like the <b>hook, context, etc.</b>
 
-(https://docs.google.com/presentation/d/1IUuuJ4dQ6rT4AsmktFre9imJNIzSaX8zz1A0XKJDQSI/edit?slide=id.p#slide=id.p)
+These are my slides I used for my [presentation](https://docs.google.com/presentation/d/1IUuuJ4dQ6rT4AsmktFre9imJNIzSaX8zz1A0XKJDQSI/edit?slide=id.p#slide=id.p)  and it includes sections of code from my project like <b>cards and the code for the animations.</b> 
 
+This is my [overview](https://github.com/lilye6368/sep10-freedom-project/blob/main/README.md) and it is just to showcase the <b>pros and cons</b> I had while making the presentations/websites and all my entries for users to check out.
+---
 
+### Short Conclusion
+
+Despite struggling aa bit with the first class presentation, everything mostly came together pretty well in the end. This freedom project let me merge and combine my coding skills with some health information showing that it was kind of worth it in the end.
 
 [Previous](entry06.md) | [Next](entry08.md)
 
