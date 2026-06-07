@@ -17,7 +17,12 @@
 ---
 
 ### Skills Section
-- During this project, I developed 
+- During this project, I got two pretty important <b>skills</b> that can be used outside this assignment:
+
+- <b>Skill 1: Layout (For Code)</b>
+- By building the health and wellness website, I learned how to create and pretty much arrange the 7 cards that had the images and information. I had to figure out how to make thm look as neat as possible and fixing any overlap that happened, like an example  is that sometimes I was editing the code and then randomly a border would overflow outside the website itself so that had to be fixed, or it just didn't align with the image at all.
+- <b>Skill 2: Management (For Content)</b>
+- I had to learn how to kind of narrow down a massive topic like health into a small set of technology examples instead of overexplaining many topics of it at once. Choosing the 7 specific parts I included in all 7 of my cards helped me manage time and make the content less boring to read, that's why there was a very small amount of sentences per card. This also helped me finish it quicker and get less stressed about fitting more information in a small set of cards overtime when I was finishing and fixing the code and project itself. This <b>skill</b> was helpful because it can help me manage deadlines better since now I have more information about it and I can actually have a clear idea of what i'd be doing from there on out.
 ### Sources + Overview Link
 
 This is my [presentation plan](https://github.com/lilye6368/sep10-freedom-project/blob/main/prep/presentation.md) and what I put for each section like the <b>hook, context, etc.</b>
