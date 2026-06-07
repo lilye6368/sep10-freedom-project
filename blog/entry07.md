@@ -14,6 +14,9 @@
 
 ### Sources + Overview Link
 
+https://github.com/lilye6368/sep10-freedom-project/blob/main/prep/presentation.md
+
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
