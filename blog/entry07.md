@@ -16,6 +16,8 @@
 
 https://github.com/lilye6368/sep10-freedom-project/blob/main/prep/presentation.md
 
+https://docs.google.com/presentation/d/1IUuuJ4dQ6rT4AsmktFre9imJNIzSaX8zz1A0XKJDQSI/edit?slide=id.p#slide=id.p
+
 
 
 [Previous](entry06.md) | [Next](entry08.md)
