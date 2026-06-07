@@ -12,6 +12,12 @@
 - Now, for my <b>expo elevator pitch,</b> this one was way easier for me to do since now I already knew that I could go quicker and explain more instead of slowly explaining for 3 minutes on end, because this time we were only required to showcase our website and code in 45-60 seconds so you wouldn't run out of things to say. This also helped me because I could instantly jump into the important topics of my website instead of dragging the unimportant topics just so I could hit the required time for my presentation. It also was nice because I could speak more quickly and freely and wouldn't need to think about the next things to say about my project since it was a simple quick demo of my website and my website already had all the necessary parts to hit that goal.
 ---
 
+### Enginnering Design Process (EDP)
+- I have fully finished the final stages of the <b>enginnering design process</b> for my health and wellness website, including finishing the whole project and my project presentation. My plan for the next stage if we DO have one is to maybe reference this layout for any possible future development projects.2d
+---
+
+### Skills Section
+- During this project, I developed 
 ### Sources + Overview Link
 
 This is my [presentation plan](https://github.com/lilye6368/sep10-freedom-project/blob/main/prep/presentation.md) and what I put for each section like the <b>hook, context, etc.</b>
