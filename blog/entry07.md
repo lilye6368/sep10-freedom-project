@@ -38,7 +38,7 @@ This is my [overview](https://github.com/lilye6368/sep10-freedom-project/blob/ma
 
 ### Short Conclusion
 
-Despite struggling aa bit with the first class presentation, everything mostly came together pretty well in the end. This freedom project let me merge and combine my coding skills with some health information showing that it was kind of worth it in the end.
+Despite struggling a bit with the first class presentation, everything mostly came together pretty well in the end. This freedom project let me merge and combine my coding skills with some health information showing that it was kind of worth it in the end.
 
 [Previous](entry06.md) | [Next](entry08.md)
 
