@@ -13,7 +13,7 @@
 ---
 
 ### Enginnering Design Process (EDP)
-- I have fully finished the final stages of the <b>enginnering design process</b> for my health and wellness website, including finishing the whole project and my project presentation. My plan for the next stage if we DO have one is to maybe reference this layout for any possible future development projects.2d
+- I have fully finished the final stages of the <b>enginnering design process</b> for my health and wellness website, including finishing the whole project and my project presentation. My plan for the next stage if we DO have one is to maybe reference this layout for any possible future development projects.
 ---
 
 ### Skills Section
